@@ -18,9 +18,9 @@ When it's working, add 2 records to the database for different users. Go to the 
 
 ![dataStore.PNG](https://github.com/bell-kevin/registrationDatabase/blob/main/readMeExamplePicture.PNG)
 
- 
-
 Submission: Zip together the root folder and the 1 screenshot, and submit the single zipped folder.
+
+![p](https://github.com/bell-kevin/registrationDatabase/blob/main/screenshots/firebase.PNG)
 
 ## How to:
 
