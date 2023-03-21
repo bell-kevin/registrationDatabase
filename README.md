@@ -14,7 +14,7 @@ Hint: one thing you did not have to do in the Udemy videos was to set up the exp
 
 When it's working, add 2 records to the database for different users. Go to the Firebase screen and expand those records. You may use any data you choose for the user information; make sure the 2 records are different, not at all similar. Take a screenshot, which will resemble this:
 
-dataStore.PNG
+![dataStore.PNG](https://github.com/bell-kevin/registrationDatabase/blob/main/readMeExamplePicture.PNG)
 
  
 
