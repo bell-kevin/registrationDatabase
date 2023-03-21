@@ -6,6 +6,8 @@ Begin by making a COPY of the previous project.
 
 You created a Firebase database with the Udemy course, and you need that same database in future sections of the course. You can have multiple databases in your Firebase account, so create a new one for this project. You can check in the documentation about how to add a new database. Here is one way that works when writing this assignment. Go to the Firebase screen, look above the heading "Realtime Database" where you should see the name of your database in smaller type, with a down arrow to the right. Click on the down arrow; one of the options is to add a database. Click on that and go through the steps to create a new database, in the same way you did with the Udemy video.
 
+https://react-native-course-bef50-default-rtdb.firebaseio.com/
+
 In the project, add "axios" with "npm install axios". Create a file for the http connections, as in the Udemy video. At this point, you only need the function to add a user in that file.
 
 In the validation file, the onPress event for the "Yes" button sets up an alert -- that needs to change to calling the handler that adds the user to the database. If there is an error, the catch should set up an alert that says "Could not add new user". In both situations -- success or error -- pop to the top of the navigation stack.
